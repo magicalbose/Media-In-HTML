@@ -1,0 +1,22 @@
+h1{
+    font-style: italic;
+    background-color: blueviolet;
+}
+body{
+    background-color: aquamarine;
+}
+#indianfood{
+    background-color: beige;
+}
+#typesoffood{
+    background-color: bisque;
+}
+#Chickens{
+background-color: rgb(234, 168, 81);
+font-style: italic;
+}
+.footer
+{
+    background-color: rgb(255, 0, 0);
+    font-weight: 900;
+}
